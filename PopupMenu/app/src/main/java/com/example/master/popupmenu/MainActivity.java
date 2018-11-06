@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         public boolean onMenuItemClick(MenuItem item) {
             switch (item.getItemId()){
                 case R.id.oneIn2:
-                mTextView.setText("One2");
+                mTextView.setText("ONNNNe");
                 break;
                 case R.id.menu2:
                     mTextView.setText("Twoo");
